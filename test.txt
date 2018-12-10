@@ -1,2 +1,6 @@
 Adding a test sentence.
 Testing push command to remote repository.
+Adding one more line.
+Another line
+Even 3rd line added.
+Let's add the 4th one.
